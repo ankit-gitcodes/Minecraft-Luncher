@@ -3,7 +3,6 @@
 A custom Minecraft Launcher built with Python and Tkinter using `minecraft_launcher_lib`.
 
 ![Launcher Screenshot 1](Screenshot%202026-05-18%20171359.png)
-![Launcher Screenshot 2](Screenshot%202026-05-18%20171514.png)
 
 This project was created mainly as a learning project to explore:
 - Tkinter GUI development
