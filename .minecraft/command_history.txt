@@ -1,0 +1,1 @@
+/effect give con minecraft:night_vision infinite
