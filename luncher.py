@@ -9,7 +9,7 @@ window = tk.Tk()
 window.title("Minecraft Launcher")
 window.geometry("500x500")
 
-minecraft_directory = "C:\\.....\\.minecraft"
+minecraft_directory = "C:\\.....\\.minecraft"   #<--------------------- replace it with the file location or import os and rplace this with "minecraft_launcher_lib.utils.get_minecraft_directory()"
 
 # --------------------------------------------------
 # Create username file if missing
